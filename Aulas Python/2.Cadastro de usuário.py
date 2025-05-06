@@ -12,5 +12,5 @@ def main():
         print("2. Ver os dados cadastrados do usuário")
         print("3. Sair do Sistema")
         print("************")
-        if opcao ==
-
+        opcao=int(input("Escolha uma opção:"))
+       
